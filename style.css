@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+}
+
+.first {
+    color: red;
+}
+
+#ball {
+    color: red;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: red;
+    bottom: 500px;
+    position: absolute;
+    transition-property: bottom;
+    transition-duration: 2s;
+}
